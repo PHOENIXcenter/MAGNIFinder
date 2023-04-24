@@ -6,6 +6,8 @@ The peak detection algorithm and XIC construction algorithm are from our previou
 
 ## All the paramters were listed in the config file as follows:
 
+CHANNEL_PLEX	6
+
 //parameters for peak detection
 
 MAX_CHARGE	4 //range: [2, MAX_CHARGE]
